@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 🔭 I’m currently working on [Bodega](https://bodega-react.netlify.app)  
-🌱 I’m currently learning react-spring  
 📫 How to reach me: suwarna.22.thapa@gmail.com  
 ⚡ Fun fact: I can shuffle a deck of cards with one hand  
 <!--
