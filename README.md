@@ -1,10 +1,14 @@
 ### Hi there 👋
 
 🔭 I’m currently working on [Bodega](https://bodega-react.netlify.app)  
+🌐 Connect with [me](https://suwarnathapa.com)  
 📫 How to reach me: suwarna.22.thapa@gmail.com  
 ⚡ Fun fact: I can shuffle a deck of cards with one hand  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iminfinity&layout=compact)](https://github.com/iminfinity/)
 <!--
 **iminfinity/iminfinity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Suwarna's github stats](https://github-readme-stats.vercel.app/api?username=iminfinity&show_icons=true&count_private=true,prs)
 
 Here are some ideas to get you started:
 
