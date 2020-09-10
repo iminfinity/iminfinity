@@ -5,6 +5,10 @@
 📫 How to reach me: suwarna.22.thapa@gmail.com  
 ⚡ Fun fact: I can shuffle a deck of cards with one hand  
 
+[![Years Badge](https://badges.pufler.dev/years/iminfinity)](https://badges.pufler.dev/years/iminfinity)
+[![Repos Badge](https://badges.pufler.dev/repos/iminfinity)](https://badges.pufler.dev/repos/iminfinity)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/iminfinity)](https://badges.pufler.dev/commits/monthly/iminfinity)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iminfinity&layout=compact)](https://github.com/iminfinity/)
 <!--
 **iminfinity/iminfinity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
