@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![Dynamite](https://media.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif)
+<!-- ![Dynamite](assets/Hello.gif) -->
 
 🔭 I’m currently working on [Bodega](https://bodega-react.netlify.app)  
 🌐 Connect with [me](https://suwarnathapa.com)  
