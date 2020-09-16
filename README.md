@@ -14,6 +14,10 @@
 
 
   
+# What I'm upto in quarantine??
+[<img src=assets/home.png>](https://iminfinity.github.io/quarantine-watchlist)
+# My Time Table
+[<img src=assets/time-table.png>](https://iminfinity.github.io/time-table)
 
 
 
