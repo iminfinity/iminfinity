@@ -16,15 +16,6 @@
   
 
 
-# What I'm upto in quarantine?? || My Time Table 
-  <p align="center">
-  <a href="https://iminfinity.github.io/quarantine-watchlist">  
-    <img  src='assets/home.svg' width='200"'>
-  </a>
-  <a href="https://iminfinity.github.io/time-table">
-    <img  src='assets/time-table.svg' width='200"'>
-  </a>
-</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iminfinity&layout=compact)](https://github.com/iminfinity/)
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
