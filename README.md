@@ -7,12 +7,10 @@
 📫 How to reach me: suwarna.22.thapa@gmail.com  
 ⚡ Fun fact: I can shuffle a deck of cards with one hand  
 
-![Profile Views](https://komarev.com/ghpvc/?username=iminfinity&color=478ded)
-[![Years Badge](https://badges.pufler.dev/years/iminfinity?color=478ded)](https://badges.pufler.dev/years/iminfinity)
-[![Repos Badge](https://badges.pufler.dev/repos/iminfinity?color=478ded)](https://badges.pufler.dev/repos/iminfinity)
-[![Commits Badge](https://badges.pufler.dev/commits/yearly/iminfinity?color=478ded)](https://badges.pufler.dev/commits/yearly/iminfinity)
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=iminfinity&color=44b317)
+![Years Badge](https://badges.pufler.dev/years/iminfinity)
+![Repos Badge](https://badges.pufler.dev/repos/iminfinity)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/iminfinity)
   
 # What I'm upto in quarantine??
 [<img src=https://i.ibb.co/y4DhHKk/home.png>](https://iminfinity.github.io/quarantine-watchlist)
