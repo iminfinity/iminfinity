@@ -10,17 +10,14 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=iminfinity&color=478ded)
 [![Years Badge](https://badges.pufler.dev/years/iminfinity?color=478ded)](https://badges.pufler.dev/years/iminfinity)
 [![Repos Badge](https://badges.pufler.dev/repos/iminfinity?color=478ded)](https://badges.pufler.dev/repos/iminfinity)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/iminfinity?color=478ded)](https://badges.pufler.dev/commits/monthly/iminfinity)
+[![Commits Badge](https://badges.pufler.dev/commits/yearly/iminfinity?color=478ded)](https://badges.pufler.dev/commits/yearly/iminfinity)
 
 
   
 # What I'm upto in quarantine??
 [<img src=https://i.ibb.co/y4DhHKk/home.png>](https://iminfinity.github.io/quarantine-watchlist)
-# My Time Table
-[<img src=https://i.ibb.co/2NmnCcv/time-table.png>](https://iminfinity.github.io/time-table)
 
-
-
+# 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iminfinity&layout=compact)](https://github.com/iminfinity/)
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 <!--
