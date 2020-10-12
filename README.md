@@ -2,7 +2,7 @@
 ![Dynamite](https://media.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif)
 <!-- ![Dynamite](assets/Hello.gif) -->
 
-🔭 I’m currently working on [Go-React-REST](https://go-react-rest.herokuapp.com/)  
+🔭 I’m currently working on [Go-React-REST](https://github.com/iminfinity/go-react)  
 🌱 Check out my last project [Bodega](https://github.com/iminfinity/Bodega)   
 🌐 Connect with [me](https://suwarnathapa.com)  
 📫 How to reach me: suwarna.22.thapa@gmail.com  
