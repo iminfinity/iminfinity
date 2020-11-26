@@ -1,5 +1,8 @@
 ### Hi there 👋
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+<!--
 ![Dynamite](https://media.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif)
+-->
 <!-- ![Dynamite](assets/Hello.gif) -->
 
 <!--
@@ -21,7 +24,6 @@
 # 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iminfinity&layout=compact)](https://github.com/iminfinity/)
 -->
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 <!--
 **iminfinity/iminfinity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Suwarna's github stats](https://github-readme-stats.vercel.app/api?username=iminfinity&show_icons=true&count_private=true,prs)
